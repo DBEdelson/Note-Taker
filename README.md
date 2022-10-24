@@ -33,12 +33,12 @@ To run via local environment:
 
 Live on [Heroku](https://fathomless-bayou-27267.herokuapp.com/notes) 
 
-![NoteTaker](/assets/demo.png)
+![ScreenShot.png!](./assets/Screen%20Shot%202022-10-24%20at%206.53.54%20PM.png
 
 ## Credits
 
-Debugger: 
-`
+Debugger: https://github.com/Salissa4
+
 ## License
 
 MIT License
