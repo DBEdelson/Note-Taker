@@ -33,7 +33,7 @@ To run via local environment:
 
 Live on [Heroku](https://fathomless-bayou-27267.herokuapp.com/notes) 
 
-![ScreenShot.png!](./assets/screenshot.png
+![ScreenShot.png!](./assets/screenshot.png)
 
 ## Credits
 
